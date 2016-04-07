@@ -1,17 +1,53 @@
+#nav {
+padding: 5px;
+font-size: 150%;
+text-align: center;
+background-color: grey;
+
+}
+#nav:hover {
+	font: grey;
+}
+#header{
+	text-align: center;
+	padding: 5px;
+}
+#second_page{
+	padding: 0px;
+	text-align: right;
+}
+.paragraph{
+	padding: 20px;
+	margin: 5px;
+	border:	;
+}
+
+body {
+	width: 90%;
+	margin: 0 auto;
+
+
+}
+#footer{
+	padding-bottom: 40px;
+
+}
+
 #tiger{
 	float: left;
-	margin-right: 10px;
-
+	margin-right: 25px;
+	margin-bottom: 10px;
 }
 #tiger2{
 	float: left;
 	width: 40%;
 	height: 30%;
+	margin-bottom: 10px;
+	margin-right: 25px;
 }
 #tiger_gallery1, #tiger_gallery2,#tiger_gallery3, #tiger_gallery4 {
 	float: left;
 	width: 30%;
 	height: 20%;
 	margin: 27px;
-
 } 
