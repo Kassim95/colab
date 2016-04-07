@@ -7,3 +7,10 @@
 	width: 40%;
 	height: 30%;
 }
+#tiger_gallery1, #tiger_gallery2,#tiger_gallery3, #tiger_gallery4 {
+	float: left;
+	width: 30%;
+	height: 20%;
+	margin: 27px;
+
+} 
