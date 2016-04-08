@@ -19,12 +19,13 @@ background-color: grey;
 .paragraph{
 	padding: 20px;
 	margin: 5px;
-	border:	;
+	text-align: center;
 }
 
 body {
 	width: 90%;
 	margin: 0 auto;
+	background-color: grey;
 
 
 }
